@@ -6,33 +6,6 @@ It standardizes and analyzes 400,000+ election records across nearly four decade
 
 The platform supports **live election coverage, post-election deep dives, and data-driven political storytelling.
 
-
- 🖼️ Dashboard Gallery
-
-
- 1️⃣ National Command Center
-![National Command Center](Screenshots/national-command-center.jpg)
-
-
- 2️⃣ State Battlegrounds
-![State Battlegrounds](Screenshots/state-battlegrounds.jpg)
-
-
- 3️⃣ Party Strategy & Performance Analysis
-![Party Strategy & Performance Analysis](Screenshots/party-strategy-performance.jpg)
-
-
-
- 4️⃣ Demographic Analysis: Gender & Turnout
-![Demographic Analysis](Screenshots/demographic-analysis.jpg)
-
-
-
- 5️⃣ Election War Room: Margin Analysis
-![Election War Room](Screenshots/election-war-room.jpg)
-
-
-
  🛠️ Technical Highlights
 
  🔧 Tech Stack
