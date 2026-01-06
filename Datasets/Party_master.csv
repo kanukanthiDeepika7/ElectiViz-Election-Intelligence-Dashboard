@@ -1,0 +1,32 @@
+Party_Code,Party_Name,Color_Hex,Logo_URL,Sort_Order
+AAAP ,Aam Aadmi Party,#0066A4,https://i.postimg.cc/4xcSynP4/app.png,1
+ADMK ,All India Anna Dravida Munnetra Kazhagam,#009900,https://i.postimg.cc/g2hTjrsr/AIADMK.png,2
+AGP,Asom Gana Parishad,#99CCFF,https://i.postimg.cc/kgSpGDsg/agp.png,3
+AITC ,All India Trinamool Congress,#00FF00,https://i.postimg.cc/MpBFHX5K/aitc.png,4
+BJD,Biju Janata Dal,#004d00,https://i.postimg.cc/3xGcNW1d/bjd.png,5
+BJP ,Bharatiya Janata Party,#FF9933,https://i.postimg.cc/hGq3dgZQ/bjp.png,6
+BSP ,Bahujan Samaj Party,#22409A,https://i.postimg.cc/BvGwKs71/bsp.png,7
+CPI ,Communist Party of India,#CB0000,https://i.postimg.cc/9fjN7Vg7/cpi.png,8
+CPM ,Communist Party of India - Marxist,#FF0000,https://i.postimg.cc/R0zbH9p6/Cpm.png,9
+DMK ,Dravida Munnetra Kazhagam,#DD1100,https://i.postimg.cc/fbhg9ZqY/dmk.png,10
+INC ,Indian National Congress,#19AAED,https://i.postimg.cc/VNcHC1ZB/inc.png,11
+IND ,Independent,#808080,https://i.postimg.cc/q7dZ30D8/ind.png,12
+INLD,Indian National Lok Dal,#228B22,https://i.postimg.cc/jjrk7K3H/INLD.png,13
+JD ,Janata Dal,#005500,https://i.postimg.cc/Gp1Syrg5/jd.png,14
+JD(S),Janata Dal Secular,#006400,https://i.postimg.cc/5tMkC1KP/jd(s).png,15
+JD(U) ,Janata Dal United,#2E8B57,https://i.postimg.cc/PqkFwhV3/jd(u).png,16
+JKN,J&K National Conference,#B30000,https://i.postimg.cc/5tMkC1Kr/jkn.png,17
+JMM ,Jharkhand Mukti Morcha,#556B2F,https://i.postimg.cc/YSwyWkD5/jmm.png,18
+JNP ,Janata Party,#006400,https://i.postimg.cc/hGq3dg3F/jnp.png,19
+LJP ,Lok Janshakti Party,#FFD700,https://i.postimg.cc/d0mNRXg4/ljp.png,20
+NCP ,Nationalist Congress Party,#00B2B2,https://i.postimg.cc/cJMk7jPD/ncp.png,21
+RJD ,Rashtriya Janata Dal,#009933,https://i.postimg.cc/VNBZ9T3y/rjd.png,22
+RLD,Rashtriya Lok Dal,#32CD32,https://i.postimg.cc/nLYSK5Ng/rld.png,23
+SAD ,Shiromani Akali Dal,#0F204B,https://i.postimg.cc/MGb304h2/SAD.png,24
+SHS ,Shiv Sena,#FF6600,https://i.postimg.cc/tgtvdfLH/shs.png,25
+SP ,Samajwadi Party,#008000,https://i.postimg.cc/DzdpQDtv/sp.png,26
+TDP ,Telugu Desam Party,#FEDE00,https://i.postimg.cc/rpCZGbv8/tdp.png,27
+TRS ,Telangana Rashtra Samithi,#FF3399,https://i.postimg.cc/KYrp7Vdj/trs.png,28
+YSRCP ,YSR Congress Party,#153E7E,https://i.postimg.cc/LsBQk7rs/ysrcp.png,29
+Others,Others,#D64550,https://i.postimg.cc/HsffNcHJ/Others.png,30
+NOTA ,None of the Above,#000000,https://i.postimg.cc/R0Qp182Y/NOTA.png,31
